@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+*.db
+*.sqlite
+*.sqlite3
+*.csproj.user
